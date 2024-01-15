@@ -13,3 +13,4 @@ markdown==3.3.7
 huggingface_hub
 pysqlite3 
 openxlab
+pysqlite3-binary
